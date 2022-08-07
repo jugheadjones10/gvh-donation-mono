@@ -1,0 +1,5032 @@
+{
+  ID: 'zkdcu',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:06:28.922Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:06:38.922Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zkdcu',
+  level: 'info',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  ID: 'pykbj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs pykbj',
+  level: 'info',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  ID: 'rvbrz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  ID: 'ztptw',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T05:06:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:06:48.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ztptw,rvbrz',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:38.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:08:38.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:08:38.923Z'
+}
+{
+  ID: 'xbiam',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:08:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:48.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs xbiam',
+  level: 'info',
+  timestamp: '2022-08-02T05:10:38.923Z'
+}
+{
+  ID: 'uxilj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:10:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:10:48.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs uxilj',
+  level: 'info',
+  timestamp: '2022-08-02T05:11:38.923Z'
+}
+{
+  ID: 'ggltf',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T05:11:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:11:48.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:13:38.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ',
+  level: 'info',
+  timestamp: '2022-08-02T05:13:38.923Z'
+}
+{
+  ID: 'dvapd',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:14:38.923Z'
+}
+{
+  ID: 'cmyiq',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T05:14:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:14:48.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs cmyiq,dvapd',
+  level: 'info',
+  timestamp: '2022-08-02T05:17:38.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:17:38.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:17:38.923Z'
+}
+{
+  ID: 'jbruh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:17:38.923Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:17:48.923Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jbruh',
+  level: 'info',
+  timestamp: '2022-08-02T05:19:38.923Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:19:38.923Z'
+}
+{
+  ID: 'qpewp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:08:06.253Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:16.253Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qpewp',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  ID: 'jfgqw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs jfgqw',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  ID: 'xqcml',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  ID: 'nehhh',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T05:08:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:08:26.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs nehhh,xqcml',
+  level: 'info',
+  timestamp: '2022-08-02T05:10:16.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:10:16.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:10:16.254Z'
+}
+{
+  ID: 'yzpsb',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:10:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:10:26.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yzpsb',
+  level: 'info',
+  timestamp: '2022-08-02T05:12:16.254Z'
+}
+{
+  ID: 'heuxn',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:12:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:12:26.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs heuxn',
+  level: 'info',
+  timestamp: '2022-08-02T05:13:16.254Z'
+}
+{
+  ID: 'inwby',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T05:13:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:13:26.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:15:16.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ',
+  level: 'info',
+  timestamp: '2022-08-02T05:15:16.254Z'
+}
+{
+  ID: 'iwdto',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:16:16.254Z'
+}
+{
+  ID: 'aoqow',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T05:16:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:16:26.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs aoqow,iwdto',
+  level: 'info',
+  timestamp: '2022-08-02T05:19:16.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:19:16.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:19:16.254Z'
+}
+{
+  ID: 'borxi',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T05:19:16.254Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T05:19:26.254Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs borxi',
+  level: 'info',
+  timestamp: '2022-08-02T05:21:16.254Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T05:21:16.254Z'
+}
+{
+  ID: 'oklhh',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID oklhh \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:42:31.131Z'
+}
+{
+  ID: 'oklhh',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["oklhh","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","02/08/2022, 2:42:31 pm"]',
+  timestamp: '2022-08-02T06:42:31.480Z'
+}
+{
+  ID: 'oklhh',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T06:42:31.663Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T06:42:41.725Z'
+}
+{
+  ID: 'oklhh',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID oklhh to N',
+  timestamp: '2022-08-02T06:42:44.258Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs oklhh',
+  level: 'info',
+  timestamp: '2022-08-02T06:42:44.260Z'
+}
+{
+  ID: 'edotg',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID edotg \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:45:01.375Z'
+}
+{
+  ID: 'edotg',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["edotg","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","02/08/2022, 2:45:01 pm"]',
+  timestamp: '2022-08-02T06:45:01.489Z'
+}
+{
+  ID: 'edotg',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T06:45:01.660Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T06:45:11.697Z'
+}
+{
+  ID: 'edotg',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID edotg to N',
+  timestamp: '2022-08-02T06:45:14.283Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs edotg',
+  level: 'info',
+  timestamp: '2022-08-02T06:45:14.286Z'
+}
+{
+  ID: 'cbsmq',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID cbsmq \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:47:10.014Z'
+}
+{
+  ID: 'cbsmq',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["cbsmq","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","02/08/2022, 2:47:10 pm"]',
+  timestamp: '2022-08-02T06:47:10.077Z'
+}
+{
+  ID: 'cbsmq',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T06:47:10.176Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:14.796Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:14.821Z'
+}
+{
+  ID: 'cbsmq',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:47:14.834Z'
+}
+{
+  ID: 'cbsmq',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID cbsmq to Y',
+  timestamp: '2022-08-02T06:47:17.549Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs cbsmq',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:17.551Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:17.565Z'
+}
+{
+  ID: 'ccnzj',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID ccnzj \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:47:35.689Z'
+}
+{
+  ID: 'ccnzj',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["ccnzj","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","02/08/2022, 2:47:35 pm"]',
+  timestamp: '2022-08-02T06:47:35.696Z'
+}
+{
+  ID: 'ccnzj',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T06:47:35.780Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:40.204Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:40.210Z'
+}
+{
+  ID: 'ccnzj',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:47:40.229Z'
+}
+{
+  ID: 'ccnzj',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID ccnzj to Y',
+  timestamp: '2022-08-02T06:47:42.694Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ccnzj',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:42.696Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-02T06:47:42.714Z'
+}
+{
+  ID: 'iulyr',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID iulyr \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:48:03.862Z'
+}
+{
+  ID: 'iulyr',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["iulyr","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","02/08/2022, 2:48:03 pm"]',
+  timestamp: '2022-08-02T06:48:03.882Z'
+}
+{
+  ID: 'iulyr',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T06:48:03.957Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-02T06:48:08.632Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T06:48:08.652Z'
+}
+{
+  ID: 'iulyr',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T06:48:08.662Z'
+}
+{
+  ID: 'iulyr',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID iulyr to Y',
+  timestamp: '2022-08-02T06:48:11.229Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs iulyr',
+  level: 'info',
+  timestamp: '2022-08-02T06:48:11.254Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-02T06:48:11.274Z'
+}
+{
+  ID: 'pmcop',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID pmcop \n' +
+    ' Request body: {"fullname":"Kim Yoyn gJin","email":"kimyoungjin1001@gmail.com","mobilenumber":"2","project":"Water Well","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T07:31:39.329Z'
+}
+{
+  ID: 'pmcop',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["pmcop","Kim Yoyn gJin","kimyoungjin1001@gmail.com","2","Water Well","paynow",1,"","","02/08/2022, 3:31:39 pm"]',
+  timestamp: '2022-08-02T07:31:39.355Z'
+}
+{
+  ID: 'pmcop',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T07:31:39.368Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T07:31:49.379Z'
+}
+{
+  ID: 'pmcop',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID pmcop to N',
+  timestamp: '2022-08-02T07:31:52.124Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs pmcop',
+  level: 'info',
+  timestamp: '2022-08-02T07:31:52.126Z'
+}
+{
+  ID: 'vzyiq',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID vzyiq \n' +
+    ' Request body: {"fullname":"Kim test","email":"kimyoungjin1001@gmail.com","mobilenumber":"123","project":"Rice for Hope","type":"qrcode","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T07:32:20.786Z'
+}
+{
+  ID: 'vzyiq',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["vzyiq","Kim test","kimyoungjin1001@gmail.com","123","Rice for Hope","qrcode",1,"","","02/08/2022, 3:32:20 pm"]',
+  timestamp: '2022-08-02T07:32:20.792Z'
+}
+{
+  ID: 'vzyiq',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T07:32:20.933Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T07:32:30.945Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-02T07:32:31.955Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T07:32:31.962Z'
+}
+{
+  ID: 'vzyiq',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim test","email":"kimyoungjin1001@gmail.com","mobilenumber":"123","project":"Rice for Hope","type":"qrcode","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T07:32:31.968Z'
+}
+{
+  ID: 'vzyiq',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID vzyiq to N',
+  timestamp: '2022-08-02T07:32:33.720Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs vzyiq',
+  level: 'info',
+  timestamp: '2022-08-02T07:32:33.724Z'
+}
+{
+  ID: 'vzyiq',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID vzyiq to Y',
+  timestamp: '2022-08-02T07:32:34.684Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vzyiq',
+  level: 'info',
+  timestamp: '2022-08-02T07:32:34.689Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-02T07:32:34.694Z'
+}
+{
+  ID: 'pjltk',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID pjltk \n' +
+    ' Request body: {"fullname":"Kim ","email":"kimyoungjin1001@gmail.com","mobilenumber":"32","project":"School Improvement","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-02T07:39:06.616Z'
+}
+{
+  ID: 'pjltk',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["pjltk","Kim ","kimyoungjin1001@gmail.com","32","School Improvement","paynow",1,"","","02/08/2022, 3:39:06 pm"]',
+  timestamp: '2022-08-02T07:39:06.619Z'
+}
+{
+  ID: 'pjltk',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T07:39:06.625Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-02T07:39:16.633Z'
+}
+{
+  ID: 'pjltk',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID pjltk to N',
+  timestamp: '2022-08-02T07:39:19.364Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs pjltk',
+  level: 'info',
+  timestamp: '2022-08-02T07:39:19.366Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-02T07:39:30.393Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 1 has been classified as other channel',
+  timestamp: '2022-08-02T07:39:30.395Z'
+}
+{
+  human: true,
+  level: 'info',
+  message: 'Sending unknown source payment email for the following donation amount: 1',
+  timestamp: '2022-08-02T07:39:30.397Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-02T07:39:31.045Z'
+}
+{
+  ID: 'ushvn',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:13:37.586Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:13:47.586Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ushvn',
+  level: 'info',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  ID: 'qjuuo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs qjuuo',
+  level: 'info',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  ID: 'rcfgz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  ID: 'lcovk',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:13:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:13:57.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs lcovk,rcfgz',
+  level: 'info',
+  timestamp: '2022-08-02T08:15:47.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:15:47.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:15:47.587Z'
+}
+{
+  ID: 'jyysw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:15:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:15:57.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jyysw',
+  level: 'info',
+  timestamp: '2022-08-02T08:17:47.587Z'
+}
+{
+  ID: 'yoila',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:17:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:17:57.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yoila',
+  level: 'info',
+  timestamp: '2022-08-02T08:18:47.587Z'
+}
+{
+  ID: 'vjrgz',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:18:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:18:57.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:20:47.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ',
+  level: 'info',
+  timestamp: '2022-08-02T08:20:47.587Z'
+}
+{
+  ID: 'egntc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:21:47.587Z'
+}
+{
+  ID: 'sutbu',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:21:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:21:57.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs sutbu,egntc',
+  level: 'info',
+  timestamp: '2022-08-02T08:24:47.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:24:47.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:24:47.587Z'
+}
+{
+  ID: 'whjnr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:24:47.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:24:57.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs whjnr',
+  level: 'info',
+  timestamp: '2022-08-02T08:26:47.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:26:47.587Z'
+}
+{
+  ID: 'qqegz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:15:41.494Z'
+}
+{
+  ID: 'wafbt',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:15:41.494Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:15:51.494Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs wafbt,qqegz',
+  level: 'info',
+  timestamp: '2022-08-02T08:17:41.494Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:17:41.494Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:17:41.494Z'
+}
+{
+  ID: 'kkiuy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:16:16.699Z'
+}
+{
+  ID: 'dflzf',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:16:16.699Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:16:26.699Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs dflzf,kkiuy',
+  level: 'info',
+  timestamp: '2022-08-02T08:18:16.699Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:18:16.699Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:18:16.699Z'
+}
+{
+  ID: 'cavgj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:21:38.489Z'
+}
+{
+  ID: 'cousb',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:21:38.489Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:21:48.489Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs cousb,cavgj',
+  level: 'info',
+  timestamp: '2022-08-02T08:23:38.489Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:23:38.489Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:23:38.489Z'
+}
+{
+  ID: 'hcwws',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:21:49.804Z'
+}
+{
+  ID: 'gkbiq',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T08:21:49.804Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:21:59.804Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs gkbiq,hcwws',
+  level: 'info',
+  timestamp: '2022-08-02T08:23:49.804Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:23:49.804Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:23:49.804Z'
+}
+{
+  ID: 'xuwdd',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T08:22:23.600Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T08:22:23.600Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs xuwdd',
+  level: 'info',
+  timestamp: '2022-08-02T08:22:23.600Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T08:22:36.244Z'
+}
+{
+  ID: 'dfhpn',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:29:45.601Z'
+}
+{
+  ID: 'fnezv',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:29:45.601Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:29:55.601Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fnezv,dfhpn',
+  level: 'info',
+  timestamp: '2022-08-02T23:31:45.601Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:31:45.601Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:31:45.601Z'
+}
+{
+  ID: 'kwnlr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:37:08.185Z'
+}
+{
+  ID: 'lyqea',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:37:08.185Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:39:08.185Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs lyqea,kwnlr',
+  level: 'info',
+  timestamp: '2022-08-02T23:39:08.185Z'
+}
+{
+  ID: 'bhaav',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:37:47.544Z'
+}
+{
+  ID: 'saqzy',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:37:47.544Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:37:47.544Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs saqzy,bhaav',
+  level: 'info',
+  timestamp: '2022-08-02T23:37:47.544Z'
+}
+{
+  ID: 'upkiw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:38:18.106Z'
+}
+{
+  ID: 'zpjdy',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:38:18.106Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:40:18.106Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs zpjdy,upkiw',
+  level: 'info',
+  timestamp: '2022-08-02T23:40:18.106Z'
+}
+{
+  ID: 'ovxon',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:38:28.927Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:43:28.927Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ovxon',
+  level: 'info',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  ID: 'vamtx',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vamtx',
+  level: 'info',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  ID: 'lmzxg',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  ID: 'dffrf',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:43:28.928Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:45:28.928Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs dffrf,lmzxg',
+  level: 'info',
+  timestamp: '2022-08-02T23:45:28.928Z'
+}
+{
+  ID: 'mirhp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:45:28.928Z'
+}
+{
+  ID: 'qnqnv',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:47:28.928Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:49:28.928Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs qnqnv,mirhp',
+  level: 'info',
+  timestamp: '2022-08-02T23:49:28.928Z'
+}
+{
+  ID: 'lqhrr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:49:28.928Z'
+}
+{
+  ID: 'ucyew',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-02T23:51:28.928Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:56:28.928Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: more pending than confirmed with donation IDs ucyew,lqhrr',
+  level: 'info',
+  timestamp: '2022-08-02T23:56:28.929Z'
+}
+{
+  ID: 'awvwa',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:56:28.929Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:58:28.929Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs awvwa',
+  level: 'info',
+  timestamp: '2022-08-02T23:58:28.929Z'
+}
+{
+  ID: 'cngwu',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:58:28.929Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:00:28.929Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs cngwu',
+  level: 'info',
+  timestamp: '2022-08-03T00:00:28.929Z'
+}
+{
+  ID: 'ltrrr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:42:51.440Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:47:51.440Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ltrrr',
+  level: 'info',
+  timestamp: '2022-08-02T23:47:51.440Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:47:51.440Z'
+}
+{
+  ID: 'utnbg',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:43:37.529Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:48:36.529Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs utnbg',
+  level: 'info',
+  timestamp: '2022-08-02T23:48:36.529Z'
+}
+{
+  ID: 'sdrcq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:44:24.352Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:49:24.352Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs sdrcq',
+  level: 'info',
+  timestamp: '2022-08-02T23:50:24.352Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:50:24.352Z'
+}
+{
+  ID: 'qimzx',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:45:03.892Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:50:03.892Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qimzx',
+  level: 'info',
+  timestamp: '2022-08-02T23:51:03.892Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:51:03.892Z'
+}
+{
+  ID: 'yxpcz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:46:53.587Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:51:53.587Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yxpcz',
+  level: 'info',
+  timestamp: '2022-08-02T23:52:53.587Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:52:53.587Z'
+}
+{
+  ID: 'gknaj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:47:13.384Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:52:13.384Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs gknaj',
+  level: 'info',
+  timestamp: '2022-08-02T23:53:13.384Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-02T23:53:13.384Z'
+}
+{
+  ID: 'gqnbp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:50:46.686Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:55:44.686Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs gqnbp',
+  level: 'info',
+  timestamp: '2022-08-02T23:55:44.686Z'
+}
+{
+  ID: 'vjvkt',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:51:28.942Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-02T23:56:23.942Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vjvkt',
+  level: 'info',
+  timestamp: '2022-08-02T23:56:23.942Z'
+}
+{
+  ID: 'vyfdq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:53:02.131Z'
+}
+{
+  ID: 'zlqvv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:53:36.873Z'
+}
+{
+  ID: 'xvmua',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:54:05.491Z'
+}
+{
+  ID: 'uwgmf',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-02T23:55:06.909Z'
+}
+{
+  ID: 'lkgwp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:00:34.997Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:05:34.997Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs lkgwp',
+  level: 'info',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  ID: 'alzjw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs alzjw',
+  level: 'info',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  ID: 'uyxtc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  ID: 'axhdy',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T00:05:34.998Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:07:34.998Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs axhdy,uyxtc',
+  level: 'info',
+  timestamp: '2022-08-03T00:07:34.998Z'
+}
+{
+  ID: 'declu',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:07:34.998Z'
+}
+{
+  ID: 'gxhvf',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T00:09:34.998Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:11:34.998Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs gxhvf,declu',
+  level: 'info',
+  timestamp: '2022-08-03T00:11:34.998Z'
+}
+{
+  ID: 'lsvru',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:11:34.998Z'
+}
+{
+  ID: 'tkssx',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T00:13:34.998Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:18:34.998Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: more pending than confirmed with donation IDs tkssx,lsvru',
+  level: 'info',
+  timestamp: '2022-08-03T00:18:34.999Z'
+}
+{
+  ID: 'mxamg',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:18:34.999Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:20:34.999Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs mxamg',
+  level: 'info',
+  timestamp: '2022-08-03T00:20:34.999Z'
+}
+{
+  ID: 'tabaz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:20:34.999Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:22:34.999Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs tabaz',
+  level: 'info',
+  timestamp: '2022-08-03T00:22:34.999Z'
+}
+{
+  ID: 'hzfit',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:22:34.999Z'
+}
+{
+  ID: 'hrzqd',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T00:00:45.804Z'
+}
+{
+  ID: 'lljml',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:01:34.778Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:06:34.778Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs lljml',
+  level: 'info',
+  timestamp: '2022-08-03T00:06:34.779Z'
+}
+{
+  ID: 'ujieg',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:14:29.737Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:19:28.757Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ujieg',
+  level: 'info',
+  timestamp: '2022-08-03T00:19:28.757Z'
+}
+{
+  ID: 'eypsk',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:15:45.883Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:20:40.883Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs eypsk',
+  level: 'info',
+  timestamp: '2022-08-03T00:20:40.903Z'
+}
+{
+  ID: 'tqmqq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:16:30.632Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:21:30.631Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs tqmqq',
+  level: 'info',
+  timestamp: '2022-08-03T00:21:30.651Z'
+}
+{
+  ID: 'qzxzb',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:17:26.066Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:22:26.066Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qzxzb',
+  level: 'info',
+  timestamp: '2022-08-03T00:22:27.066Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:22:27.106Z'
+}
+{
+  ID: 'nwmyz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:17:38.119Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:22:38.119Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs nwmyz',
+  level: 'info',
+  timestamp: '2022-08-03T00:22:39.139Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:22:39.159Z'
+}
+{
+  ID: 'ghrdi',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:21:30.104Z'
+}
+{
+  ID: 'ofhuo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:22:05.939Z'
+}
+{
+  ID: 'abbtq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:22:35.741Z'
+}
+{
+  ID: 'qjxke',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:25:42.445Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:30:42.445Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qjxke',
+  level: 'info',
+  timestamp: '2022-08-03T00:30:42.465Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:30:42.485Z'
+}
+{
+  ID: 'ikgyw',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID ikgyw \n' +
+    ' Request body: {"fullname":"Kim Young Jin ","email":"kimyoungjin1001@gmail.com","mobilenumber":"123","project":"School Improvement","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-03T00:28:25.101Z'
+}
+{
+  ID: 'ikgyw',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["ikgyw","Kim Young Jin ","kimyoungjin1001@gmail.com","123","School Improvement","paynow",1,"","","03/08/2022, 8:28:25 am"]',
+  timestamp: '2022-08-03T00:28:25.123Z'
+}
+{
+  ID: 'ikgyw',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:28:25.132Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-03T00:28:35.137Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-03T00:28:37.183Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-03T00:28:37.187Z'
+}
+{
+  ID: 'ikgyw',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin ","email":"kimyoungjin1001@gmail.com","mobilenumber":"123","project":"School Improvement","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-03T00:28:37.189Z'
+}
+{
+  ID: 'ikgyw',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID ikgyw to N',
+  timestamp: '2022-08-03T00:28:37.931Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ikgyw',
+  level: 'info',
+  timestamp: '2022-08-03T00:28:37.933Z'
+}
+{
+  ID: 'ikgyw',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID ikgyw to Y',
+  timestamp: '2022-08-03T00:28:39.974Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ikgyw',
+  level: 'info',
+  timestamp: '2022-08-03T00:28:39.976Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-03T00:28:39.979Z'
+}
+{
+  ID: 'iwqkj',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID iwqkj \n' +
+    ' Request body: {"fullname":"Kim Young Jin","email":"kimmyoun@g.g","mobilenumber":"1","project":"Water Well","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-03T00:29:03.187Z'
+}
+{
+  ID: 'iwqkj',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["iwqkj","Kim Young Jin","kimmyoun@g.g","1","Water Well","paynow",1,"","","03/08/2022, 8:29:03 am"]',
+  timestamp: '2022-08-03T00:29:03.189Z'
+}
+{
+  ID: 'iwqkj',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:29:03.193Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-03T00:29:13.202Z'
+}
+{
+  ID: 'iwqkj',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID iwqkj to N',
+  timestamp: '2022-08-03T00:29:15.988Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs iwqkj',
+  level: 'info',
+  timestamp: '2022-08-03T00:29:15.990Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-03T00:29:17.816Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 1 has been classified as other channel',
+  timestamp: '2022-08-03T00:29:17.818Z'
+}
+{
+  human: true,
+  level: 'info',
+  message: 'Sending unknown source payment email for the following donation amount: 1',
+  timestamp: '2022-08-03T00:29:17.819Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-03T00:29:19.366Z'
+}
+{
+  ID: 'wikny',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:31:56.062Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:32:01.075Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs wikny',
+  level: 'info',
+  timestamp: '2022-08-03T00:32:01.083Z'
+}
+{
+  ID: 'qgpld',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:33:17.773Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:33:22.785Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qgpld',
+  level: 'info',
+  timestamp: '2022-08-03T00:33:22.805Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:33:22.852Z'
+}
+{
+  ID: 'yhgkh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:34:48.940Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:34:53.953Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yhgkh',
+  level: 'info',
+  timestamp: '2022-08-03T00:34:53.961Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:34:54.002Z'
+}
+{
+  ID: 'gjxec',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:35:16.845Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:35:20.866Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs gjxec',
+  level: 'info',
+  timestamp: '2022-08-03T00:35:20.880Z'
+}
+{
+  ID: 'lwerv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:35:35.823Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:35:40.344Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs lwerv',
+  level: 'info',
+  timestamp: '2022-08-03T00:35:40.361Z'
+}
+{
+  ID: 'fhcxn',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:35:49.528Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:35:54.544Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fhcxn',
+  level: 'info',
+  timestamp: '2022-08-03T00:35:54.552Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:35:54.592Z'
+}
+{
+  ID: 'qewio',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:38:56.478Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:39:01.496Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qewio',
+  level: 'info',
+  timestamp: '2022-08-03T00:39:01.511Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T00:39:01.547Z'
+}
+{
+  ID: 'bilbu',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:40:57.665Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:41:02.680Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs bilbu',
+  level: 'info',
+  timestamp: '2022-08-03T00:41:02.697Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:41:02.708Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs bilbu',
+  level: 'info',
+  timestamp: '2022-08-03T00:41:02.720Z'
+}
+{
+  ID: 'vpjrh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:48:04.471Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:48:09.484Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:48:09.506Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vpjrh',
+  level: 'info',
+  timestamp: '2022-08-03T00:48:09.519Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs vpjrh',
+  level: 'info',
+  timestamp: '2022-08-03T00:48:10.497Z'
+}
+{
+  ID: 'ytgyj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:51:54.806Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:51:59.819Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:52:00.326Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ytgyj',
+  level: 'info',
+  timestamp: '2022-08-03T00:52:00.337Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ytgyj',
+  level: 'info',
+  timestamp: '2022-08-03T00:52:00.832Z'
+}
+{
+  ID: 'itacr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T00:53:26.667Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:53:31.679Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T00:53:32.186Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs itacr',
+  level: 'info',
+  timestamp: '2022-08-03T00:53:32.692Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs itacr',
+  level: 'info',
+  timestamp: '2022-08-03T00:53:33.203Z'
+}
+{
+  ID: 'zvtce',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:01:16.500Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:01:21.514Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zvtce',
+  level: 'info',
+  timestamp: '2022-08-03T01:01:22.524Z'
+}
+{
+  ID: 'gexum',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:02:02.710Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:02:07.719Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs gexum',
+  level: 'info',
+  timestamp: '2022-08-03T01:02:08.741Z'
+}
+{
+  ID: 'uzfom',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:03:34.231Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:03:39.244Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs uzfom',
+  level: 'info',
+  timestamp: '2022-08-03T01:03:40.253Z'
+}
+{
+  ID: 'uojdv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:05:38.814Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:05:43.852Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs uojdv',
+  level: 'info',
+  timestamp: '2022-08-03T01:05:44.863Z'
+}
+{
+  ID: 'itquv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:07:10.882Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:07:15.895Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:07:16.403Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs itquv',
+  level: 'info',
+  timestamp: '2022-08-03T01:07:16.903Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs itquv',
+  level: 'info',
+  timestamp: '2022-08-03T01:07:17.420Z'
+}
+{
+  ID: 'mtino',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:07:54.015Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:07:59.024Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:07:59.530Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs mtino',
+  level: 'info',
+  timestamp: '2022-08-03T01:08:00.033Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs mtino',
+  level: 'info',
+  timestamp: '2022-08-03T01:08:00.543Z'
+}
+{
+  ID: 'hjiuj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:08:09.774Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:08:14.788Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:08:15.300Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs hjiuj',
+  level: 'info',
+  timestamp: '2022-08-03T01:08:15.798Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs hjiuj',
+  level: 'info',
+  timestamp: '2022-08-03T01:08:16.316Z'
+}
+{
+  ID: 'lhhjf',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:12:11.988Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:12:17.003Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs lhhjf',
+  level: 'info',
+  timestamp: '2022-08-03T01:12:18.012Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:12:18.034Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ',
+  level: 'info',
+  timestamp: '2022-08-03T01:12:18.042Z'
+}
+{
+  ID: 'spcqb',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:14:05.582Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:14:10.595Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs spcqb',
+  level: 'info',
+  timestamp: '2022-08-03T01:14:11.604Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:14:11.658Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ',
+  level: 'info',
+  timestamp: '2022-08-03T01:14:11.678Z'
+}
+{
+  ID: 'zsxhw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:16:08.957Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:16:13.970Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zsxhw',
+  level: 'info',
+  timestamp: '2022-08-03T01:16:14.987Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:16:15.019Z'
+}
+{
+  ID: 'zljvu',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:21:07.621Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:21:12.621Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zljvu',
+  level: 'info',
+  timestamp: '2022-08-03T01:21:13.621Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:21:13.641Z'
+}
+{
+  ID: 'klabq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:23:22.085Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:23:27.085Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs klabq',
+  level: 'info',
+  timestamp: '2022-08-03T01:23:28.085Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:23:28.085Z'
+}
+{
+  ID: 'xenwm',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:23:54.991Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:24:00.011Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs xenwm',
+  level: 'info',
+  timestamp: '2022-08-03T01:24:01.011Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:24:01.011Z'
+}
+{
+  ID: 'vcwxo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:26:26.509Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:31:26.529Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs vcwxo',
+  level: 'info',
+  timestamp: '2022-08-03T01:31:27.029Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:31:27.029Z'
+}
+{
+  ID: 'xhcfo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:27:45.451Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:32:45.451Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs xhcfo',
+  level: 'info',
+  timestamp: '2022-08-03T01:32:45.452Z'
+}
+{
+  ID: 'vwgjy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:32:45.492Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:32:45.492Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vwgjy',
+  level: 'info',
+  timestamp: '2022-08-03T01:32:45.512Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:32:45.532Z'
+}
+{
+  ID: 'pitdl',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:32:45.552Z'
+}
+{
+  ID: 'jmhad',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T01:32:45.572Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:34:45.572Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs jmhad,pitdl',
+  level: 'info',
+  timestamp: '2022-08-03T01:34:45.592Z'
+}
+{
+  ID: 'yafbq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:34:45.612Z'
+}
+{
+  ID: 'hudgo',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T01:36:45.632Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:38:45.652Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs hudgo,yafbq',
+  level: 'info',
+  timestamp: '2022-08-03T01:38:45.652Z'
+}
+{
+  ID: 'kdouw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:38:45.672Z'
+}
+{
+  ID: 'uqgtt',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T01:40:45.692Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:45:45.692Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: more pending than confirmed with donation IDs uqgtt,kdouw',
+  level: 'info',
+  timestamp: '2022-08-03T01:45:45.713Z'
+}
+{
+  ID: 'akgya',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:45:45.733Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:47:45.733Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs akgya',
+  level: 'info',
+  timestamp: '2022-08-03T01:47:45.733Z'
+}
+{
+  ID: 'pofox',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:47:45.753Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:49:45.753Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs pofox',
+  level: 'info',
+  timestamp: '2022-08-03T01:49:45.773Z'
+}
+{
+  ID: 'vydfj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:49:45.773Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T01:54:45.793Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs vydfj',
+  level: 'info',
+  timestamp: '2022-08-03T01:54:46.293Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T01:54:46.293Z'
+}
+{
+  ID: 'tjqpp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:55:58.408Z'
+}
+{
+  ID: 'wfwfg',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:56:16.420Z'
+}
+{
+  ID: 'huzza',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T01:57:16.020Z'
+}
+{
+  ID: 'huzza',
+  level: 'error',
+  message: 'Error while processing donation intent in queueIntent: stack,message,previousErrors',
+  timestamp: '2022-08-03T01:57:16.029Z'
+}
+{
+  ID: 'ocmsn',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:02:19.091Z'
+}
+{
+  ID: 'ocmsn',
+  level: 'error',
+  message: 'Error while processing donation intent in queueIntent: {"message":"Connection is closed.","name":"Error"}',
+  timestamp: '2022-08-03T02:02:19.106Z'
+}
+{
+  ID: 'zbfny',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:02:58.274Z'
+}
+{
+  ID: 'zbfny',
+  level: 'error',
+  message: 'Error while processing donation intent in queueIntent: {"message":"Connection is closed.","name":"Error"}',
+  timestamp: '2022-08-03T02:02:58.291Z'
+}
+{
+  ID: 'cgzem',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:05:05.755Z'
+}
+{
+  ID: 'cgzem',
+  level: 'error',
+  message: 'Error while processing donation intent in queueIntent: {"message":"Connection is closed.","name":"Error"}',
+  timestamp: '2022-08-03T02:05:05.773Z'
+}
+{
+  ID: 'goghc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:05:44.419Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:10:44.439Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:10:44.699Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs goghc',
+  level: 'info',
+  timestamp: '2022-08-03T02:10:44.959Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs goghc',
+  level: 'info',
+  timestamp: '2022-08-03T02:10:45.199Z'
+}
+{
+  ID: 'jsrly',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:07:04.416Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:12:04.416Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jsrly',
+  level: 'info',
+  timestamp: '2022-08-03T02:12:04.936Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T02:12:04.936Z'
+}
+{
+  ID: 'hvdmm',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:07:55.391Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:12:55.391Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs hvdmm',
+  level: 'info',
+  timestamp: '2022-08-03T02:12:55.891Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T02:12:55.911Z'
+}
+{
+  ID: 'yhakr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:10:39.639Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:15:39.639Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:15:39.899Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yhakr',
+  level: 'info',
+  timestamp: '2022-08-03T02:15:40.139Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs yhakr',
+  level: 'info',
+  timestamp: '2022-08-03T02:15:40.399Z'
+}
+{
+  ID: 'rrpts',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:13:22.799Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:18:22.799Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs rrpts',
+  level: 'info',
+  timestamp: '2022-08-03T02:18:23.299Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T02:18:23.319Z'
+}
+{
+  ID: 'cqolz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:13:49.134Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:18:49.134Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:18:49.394Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs cqolz',
+  level: 'info',
+  timestamp: '2022-08-03T02:18:49.634Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs cqolz',
+  level: 'info',
+  timestamp: '2022-08-03T02:18:49.894Z'
+}
+{
+  ID: 'ljwvm',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:15:17.517Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:20:17.517Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:20:17.777Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ljwvm',
+  level: 'info',
+  timestamp: '2022-08-03T02:20:18.017Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ljwvm',
+  level: 'info',
+  timestamp: '2022-08-03T02:20:18.277Z'
+}
+{
+  ID: 'fzqfp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:15:25.800Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:20:25.800Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fzqfp',
+  level: 'info',
+  timestamp: '2022-08-03T02:20:26.320Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T02:20:26.340Z'
+}
+{
+  ID: 'yotdh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:29:14.999Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:14.999Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:15.259Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yotdh',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:15.499Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs yotdh',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:15.759Z'
+}
+{
+  ID: 'ytron',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:29:51.969Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:51.969Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:52.229Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ytron',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:52.489Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ytron',
+  level: 'info',
+  timestamp: '2022-08-03T02:34:52.729Z'
+}
+{
+  ID: 'kkaat',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:34:42.526Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:39:42.526Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:39:42.786Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs kkaat',
+  level: 'info',
+  timestamp: '2022-08-03T02:39:43.046Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs kkaat',
+  level: 'info',
+  timestamp: '2022-08-03T02:39:43.286Z'
+}
+{
+  ID: 'tzlqv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:36:02.212Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:02.212Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:02.472Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs tzlqv',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:02.732Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs tzlqv',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:02.972Z'
+}
+{
+  ID: 'trpez',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:36:23.027Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:23.027Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:23.287Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs trpez',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:23.527Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs trpez',
+  level: 'info',
+  timestamp: '2022-08-03T02:41:23.787Z'
+}
+{
+  ID: 'nqrih',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:43:24.629Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:48:24.629Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:48:24.889Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs nqrih',
+  level: 'info',
+  timestamp: '2022-08-03T02:48:25.149Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs nqrih',
+  level: 'info',
+  timestamp: '2022-08-03T02:48:25.389Z'
+}
+{
+  ID: 'etuai',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:48:37.600Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:37.600Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:37.860Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs etuai',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:38.100Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs etuai',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:38.360Z'
+}
+{
+  ID: 'iknzs',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:53:38.380Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:58:38.400Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs iknzs',
+  level: 'info',
+  timestamp: '2022-08-03T02:58:38.900Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T02:58:38.900Z'
+}
+{
+  ID: 'ltyev',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:48:53.320Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:53.320Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:53.580Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ltyev',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:53.820Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ltyev',
+  level: 'info',
+  timestamp: '2022-08-03T02:53:54.080Z'
+}
+{
+  ID: 'bbrtc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:53:54.100Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:58:54.120Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs bbrtc',
+  level: 'info',
+  timestamp: '2022-08-03T02:58:54.620Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T02:58:54.620Z'
+}
+{
+  ID: 'vbgso',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:50:20.768Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:20.788Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:21.048Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs vbgso',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:21.308Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vbgso',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:21.548Z'
+}
+{
+  ID: 'buvcy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:55:21.568Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:00:21.588Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs buvcy',
+  level: 'info',
+  timestamp: '2022-08-03T03:00:22.088Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:00:22.088Z'
+}
+{
+  ID: 'advee',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:50:34.602Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:34.602Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:34.862Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs advee',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:35.122Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs advee',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:35.362Z'
+}
+{
+  ID: 'luidl',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:50:47.485Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:47.485Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:47.745Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs luidl',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:47.985Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs luidl',
+  level: 'info',
+  timestamp: '2022-08-03T02:55:48.245Z'
+}
+{
+  ID: 'wihiv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:52:00.275Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:00.275Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:00.535Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs wihiv',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:00.775Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs wihiv',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:01.035Z'
+}
+{
+  ID: 'jzdfk',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:52:40.892Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:40.892Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:41.152Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jzdfk',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:41.392Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs jzdfk',
+  level: 'info',
+  timestamp: '2022-08-03T02:57:41.652Z'
+}
+{
+  ID: 'hhoqv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:55:48.720Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:00:48.720Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:00:48.980Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs hhoqv',
+  level: 'info',
+  timestamp: '2022-08-03T03:00:49.240Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs hhoqv',
+  level: 'info',
+  timestamp: '2022-08-03T03:00:49.480Z'
+}
+{
+  ID: 'ulfck',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T02:56:13.477Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:01:13.477Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ulfck',
+  level: 'info',
+  timestamp: '2022-08-03T03:01:13.977Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:01:13.977Z'
+}
+{
+  ID: 'tpzqc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:12:30.881Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:17:30.881Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs tpzqc',
+  level: 'info',
+  timestamp: '2022-08-03T03:17:31.381Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:17:31.381Z'
+}
+{
+  ID: 'uznmk',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:14:47.856Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:19:47.856Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs uznmk',
+  level: 'info',
+  timestamp: '2022-08-03T03:19:48.376Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:19:48.376Z'
+}
+{
+  ID: 'elsao',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:20:51.445Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:25:51.465Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs elsao',
+  level: 'info',
+  timestamp: '2022-08-03T03:25:51.965Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:25:51.965Z'
+}
+{
+  ID: 'bfiwv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:21:15.166Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:26:15.186Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs bfiwv',
+  level: 'info',
+  timestamp: '2022-08-03T03:26:15.686Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:26:15.686Z'
+}
+{
+  ID: 'serrr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:22:44.290Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:27:44.290Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs serrr',
+  level: 'info',
+  timestamp: '2022-08-03T03:27:44.790Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:27:44.790Z'
+}
+{
+  ID: 'spwxp',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:24:04.120Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:29:04.140Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs spwxp',
+  level: 'info',
+  timestamp: '2022-08-03T03:29:04.640Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:29:04.640Z'
+}
+{
+  ID: 'ozamo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:29:31.418Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:34:31.418Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ozamo',
+  level: 'info',
+  timestamp: '2022-08-03T03:34:31.918Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T03:34:31.918Z'
+}
+{
+  ID: 'jqsqh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:30:12.196Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:35:12.216Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:35:12.496Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jqsqh',
+  level: 'info',
+  timestamp: '2022-08-03T03:35:12.716Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs jqsqh',
+  level: 'info',
+  timestamp: '2022-08-03T03:35:13.016Z'
+}
+{
+  ID: 'fxita',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:31:32.583Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:36:32.583Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:36:32.843Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fxita',
+  level: 'info',
+  timestamp: '2022-08-03T03:36:33.083Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs fxita',
+  level: 'info',
+  timestamp: '2022-08-03T03:36:33.343Z'
+}
+{
+  ID: 'behah',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T03:33:13.039Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:38:13.039Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T03:38:13.299Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs behah',
+  level: 'info',
+  timestamp: '2022-08-03T03:38:13.559Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs behah',
+  level: 'info',
+  timestamp: '2022-08-03T03:38:13.799Z'
+}
+{
+  ID: 'nmmqv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:22:17.730Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:27:17.730Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs nmmqv',
+  level: 'info',
+  timestamp: '2022-08-03T05:27:18.250Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:27:18.250Z'
+}
+{
+  ID: 'jaeig',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:24:03.263Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:29:03.263Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jaeig',
+  level: 'info',
+  timestamp: '2022-08-03T05:29:03.763Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:29:03.763Z'
+}
+{
+  ID: 'kcruy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:24:32.289Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:29:32.289Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs kcruy',
+  level: 'info',
+  timestamp: '2022-08-03T05:29:32.789Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:29:32.789Z'
+}
+{
+  ID: 'fahkb',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:31:03.268Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:36:03.288Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fahkb',
+  level: 'info',
+  timestamp: '2022-08-03T05:36:03.788Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:36:03.788Z'
+}
+{
+  ID: 'ipzxn',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:34:57.192Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:39:57.212Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ipzxn',
+  level: 'info',
+  timestamp: '2022-08-03T05:39:57.712Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:39:57.712Z'
+}
+{
+  ID: 'axsma',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:35:29.043Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:40:29.043Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs axsma',
+  level: 'info',
+  timestamp: '2022-08-03T05:40:29.543Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:40:29.543Z'
+}
+{
+  ID: 'tctvl',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:38:40.724Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:43:40.724Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs tctvl',
+  level: 'info',
+  timestamp: '2022-08-03T05:43:41.244Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:43:41.244Z'
+}
+{
+  ID: 'jekhb',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:53:31.705Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:58:31.705Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs jekhb',
+  level: 'info',
+  timestamp: '2022-08-03T05:58:32.205Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T05:58:32.205Z'
+}
+{
+  ID: 'oyjvw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T05:54:18.152Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:59:18.152Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T05:59:18.412Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs oyjvw',
+  level: 'info',
+  timestamp: '2022-08-03T05:59:18.652Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs oyjvw',
+  level: 'info',
+  timestamp: '2022-08-03T05:59:18.912Z'
+}
+{
+  ID: 'zsvhw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T06:14:59.632Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T06:19:59.632Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zsvhw',
+  level: 'info',
+  timestamp: '2022-08-03T06:20:00.132Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T06:20:00.132Z'
+}
+{
+  ID: 'llpra',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:25:50.557Z'
+}
+{
+  ID: 'gilsy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:21:16.545Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T07:26:16.565Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs gilsy',
+  level: 'info',
+  timestamp: '2022-08-03T07:26:17.065Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T07:26:17.065Z'
+}
+{
+  ID: 'qgxjh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:29:00.318Z'
+}
+{
+  ID: 'fmmrv',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:40:33.416Z'
+}
+{
+  ID: 'eacen',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:35:44.988Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T07:40:44.988Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs eacen',
+  level: 'info',
+  timestamp: '2022-08-03T07:40:45.508Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T07:40:45.508Z'
+}
+{
+  ID: 'ricdc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:48:57.422Z'
+}
+{
+  ID: 'crgcc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:47:45.594Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T07:52:45.594Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs crgcc',
+  level: 'info',
+  timestamp: '2022-08-03T07:52:45.614Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T07:52:45.854Z'
+}
+{
+  ID: 'zzczf',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T07:50:18.372Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T07:55:18.372Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T07:55:18.632Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zzczf',
+  level: 'info',
+  timestamp: '2022-08-03T07:55:18.892Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs zzczf',
+  level: 'info',
+  timestamp: '2022-08-03T07:55:19.132Z'
+}
+{
+  ID: 'qfefq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:08:12.196Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:13:12.196Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qfefq',
+  level: 'info',
+  timestamp: '2022-08-03T08:13:12.216Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T08:13:12.456Z'
+}
+{
+  ID: 'yzjkt',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:08:29.946Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:13:29.946Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:13:30.206Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yzjkt',
+  level: 'info',
+  timestamp: '2022-08-03T08:13:30.466Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs yzjkt',
+  level: 'info',
+  timestamp: '2022-08-03T08:13:30.706Z'
+}
+{
+  ID: 'zxxqc',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:09:34.680Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:14:34.680Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:14:34.940Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs zxxqc',
+  level: 'info',
+  timestamp: '2022-08-03T08:14:35.200Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs zxxqc',
+  level: 'info',
+  timestamp: '2022-08-03T08:14:35.440Z'
+}
+{
+  ID: 'ymohq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:13:11.863Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:18:11.863Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:18:12.123Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ymohq',
+  level: 'info',
+  timestamp: '2022-08-03T08:18:12.383Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ymohq',
+  level: 'info',
+  timestamp: '2022-08-03T08:18:12.643Z'
+}
+{
+  ID: 'rgwug',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:29:26.581Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:34:26.581Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs rgwug',
+  level: 'info',
+  timestamp: '2022-08-03T08:34:27.081Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T08:34:27.081Z'
+}
+{
+  ID: 'pamnx',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:32:43.439Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:37:43.439Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs pamnx',
+  level: 'info',
+  timestamp: '2022-08-03T08:37:43.959Z'
+}
+{
+  ID: 'bqmyk',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T08:36:15.705Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T08:41:15.705Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs bqmyk',
+  level: 'info',
+  timestamp: '2022-08-03T08:41:16.225Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T08:41:16.225Z'
+}
+{
+  ID: 'yfjsu',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:14:46.449Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:19:46.449Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:19:46.709Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs yfjsu',
+  level: 'info',
+  timestamp: '2022-08-03T09:19:46.969Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs yfjsu',
+  level: 'info',
+  timestamp: '2022-08-03T09:19:47.209Z'
+}
+{
+  ID: 'gfyxy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:15:18.816Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:18.816Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:19.076Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs gfyxy',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:19.316Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs gfyxy',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:19.576Z'
+}
+{
+  ID: 'ayurk',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:20:19.616Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:19.616Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:19.876Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ayurk',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:20.116Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ayurk',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:20.376Z'
+}
+{
+  ID: 'bzwpb',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:15:50.936Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:50.936Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:51.196Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs bzwpb',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:51.436Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs bzwpb',
+  level: 'info',
+  timestamp: '2022-08-03T09:20:51.696Z'
+}
+{
+  ID: 'nxjfe',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:20:51.716Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:51.736Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:51.996Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs nxjfe',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:52.236Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs nxjfe',
+  level: 'info',
+  timestamp: '2022-08-03T09:25:52.496Z'
+}
+{
+  ID: 'nmiwo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:17:52.225Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:22:52.225Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:22:52.485Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs nmiwo',
+  level: 'info',
+  timestamp: '2022-08-03T09:22:52.725Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs nmiwo',
+  level: 'info',
+  timestamp: '2022-08-03T09:22:52.985Z'
+}
+{
+  ID: 'qwgri',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:22:53.005Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:27:53.025Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs qwgri',
+  level: 'info',
+  timestamp: '2022-08-03T09:27:53.525Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T09:27:53.525Z'
+}
+{
+  ID: 'ucutm',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:45:28.260Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:50:28.260Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs ucutm',
+  level: 'info',
+  timestamp: '2022-08-03T09:50:28.281Z'
+}
+{
+  ID: 'tovwr',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:50:28.321Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:50:28.341Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs tovwr',
+  level: 'info',
+  timestamp: '2022-08-03T09:50:28.341Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T09:50:28.381Z'
+}
+{
+  ID: 'zkmsk',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:50:28.401Z'
+}
+{
+  ID: 'tgfxm',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T09:50:28.401Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:52:28.421Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs tgfxm,zkmsk',
+  level: 'info',
+  timestamp: '2022-08-03T09:52:28.421Z'
+}
+{
+  ID: 'xxnie',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:52:28.461Z'
+}
+{
+  ID: 'qemra',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T09:54:28.481Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T09:56:28.501Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs qemra,xxnie',
+  level: 'info',
+  timestamp: '2022-08-03T09:56:28.501Z'
+}
+{
+  ID: 'fazgj',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T09:56:28.521Z'
+}
+{
+  ID: 'jyzbx',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-03T09:58:28.521Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T10:03:28.541Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: more pending than confirmed with donation IDs jyzbx,fazgj',
+  level: 'info',
+  timestamp: '2022-08-03T10:03:28.542Z'
+}
+{
+  ID: 'jsjfe',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T10:03:28.562Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T10:05:28.582Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs jsjfe',
+  level: 'info',
+  timestamp: '2022-08-03T10:05:28.582Z'
+}
+{
+  ID: 'omaqh',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T10:05:28.602Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T10:07:28.602Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs omaqh',
+  level: 'info',
+  timestamp: '2022-08-03T10:07:28.602Z'
+}
+{
+  ID: 'lspap',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T10:07:28.622Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T10:12:28.642Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T10:12:28.902Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs lspap',
+  level: 'info',
+  timestamp: '2022-08-03T10:12:29.142Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs lspap',
+  level: 'info',
+  timestamp: '2022-08-03T10:12:29.402Z'
+}
+{
+  ID: 'fsypz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-03T10:12:29.402Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-03T10:17:29.422Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fsypz',
+  level: 'info',
+  timestamp: '2022-08-03T10:17:29.922Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-03T10:17:29.922Z'
+}
+{
+  ID: 'fnifq',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:29:02.174Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:34:02.174Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs fnifq',
+  level: 'info',
+  timestamp: '2022-08-07T00:34:02.175Z'
+}
+{
+  ID: 'sjfrw',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:34:02.215Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:34:02.215Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs sjfrw',
+  level: 'info',
+  timestamp: '2022-08-07T00:34:02.215Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-07T00:34:02.255Z'
+}
+{
+  ID: 'ujxqz',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:34:02.295Z'
+}
+{
+  ID: 'nbeek',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-07T00:34:02.315Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:36:02.315Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs nbeek,ujxqz',
+  level: 'info',
+  timestamp: '2022-08-07T00:36:02.335Z'
+}
+{
+  ID: 'bxlro',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:36:02.355Z'
+}
+{
+  ID: 'lqosx',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-07T00:38:02.375Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:40:02.395Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs lqosx,bxlro',
+  level: 'info',
+  timestamp: '2022-08-07T00:40:02.395Z'
+}
+{
+  ID: 'iiwdx',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:40:02.415Z'
+}
+{
+  ID: 'uxpcp',
+  level: 'info',
+  message: 'Donation intent for amount 3 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-07T00:42:02.435Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:47:02.435Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: more pending than confirmed with donation IDs uxpcp,iiwdx',
+  level: 'info',
+  timestamp: '2022-08-07T00:47:02.456Z'
+}
+{
+  ID: 'zbcdt',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:47:02.476Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:49:02.476Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs zbcdt',
+  level: 'info',
+  timestamp: '2022-08-07T00:49:02.476Z'
+}
+{
+  ID: 'udeqy',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:49:02.496Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:51:02.516Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs udeqy',
+  level: 'info',
+  timestamp: '2022-08-07T00:51:02.516Z'
+}
+{
+  ID: 'kbznf',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:51:02.536Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:56:02.536Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T00:56:02.796Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs kbznf',
+  level: 'info',
+  timestamp: '2022-08-07T00:56:03.036Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs kbznf',
+  level: 'info',
+  timestamp: '2022-08-07T00:56:03.296Z'
+}
+{
+  ID: 'rcheo',
+  level: 'info',
+  message: 'No donation intent for amount 3 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:56:03.296Z'
+}
+{
+  message: 'Attempting to tally amount 3',
+  level: 'info',
+  timestamp: '2022-08-07T01:01:03.316Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: no confirmed with donation IDs rcheo',
+  level: 'info',
+  timestamp: '2022-08-07T01:01:03.816Z'
+}
+{
+  human: true,
+  level: 'warn',
+  message: 'Since there are no ongoing donation intents, incoming donation amount 3 has been classified as other channel',
+  timestamp: '2022-08-07T01:01:03.816Z'
+}
+{
+  ID: 'kxucp',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID kxucp \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:41:19.327Z'
+}
+{
+  ID: 'kxucp',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["kxucp","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 8:41:19 am"]',
+  timestamp: '2022-08-07T00:41:19.405Z'
+}
+{
+  ID: 'kxucp',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:41:19.429Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:24.356Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:24.362Z'
+}
+{
+  ID: 'kxucp',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:41:24.365Z'
+}
+{
+  ID: 'kxucp',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID kxucp to Y',
+  timestamp: '2022-08-07T00:41:26.645Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs kxucp',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:26.647Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:26.652Z'
+}
+{
+  ID: 'pdonz',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID pdonz \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:41:37.348Z'
+}
+{
+  ID: 'pdonz',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["pdonz","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 8:41:37 am"]',
+  timestamp: '2022-08-07T00:41:37.351Z'
+}
+{
+  ID: 'pdonz',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:41:37.363Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:41.265Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:41.268Z'
+}
+{
+  ID: 'pdonz',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:41:41.273Z'
+}
+{
+  ID: 'pdonz',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID pdonz to Y',
+  timestamp: '2022-08-07T00:41:43.485Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs pdonz',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:43.486Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:43.488Z'
+}
+{
+  ID: 'vvwbd',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID vvwbd \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:41:55.879Z'
+}
+{
+  ID: 'vvwbd',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["vvwbd","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 8:41:55 am"]',
+  timestamp: '2022-08-07T00:41:55.881Z'
+}
+{
+  ID: 'vvwbd',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T00:41:55.887Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:59.878Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T00:41:59.880Z'
+}
+{
+  ID: 'vvwbd',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:41:59.885Z'
+}
+{
+  ID: 'vfgla',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID vfgla \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:46:52.395Z'
+}
+{
+  ID: 'vfgla',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["vfgla","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 8:46:52 am"]',
+  timestamp: '2022-08-07T00:46:52.450Z'
+}
+{
+  ID: 'vfgla',
+  level: 'info',
+  message: 'Donation intent for amount 1 exists currently - incrementing pending counter by 1 and restarting timer',
+  timestamp: '2022-08-07T00:46:52.471Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T00:46:56.887Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T00:46:56.890Z'
+}
+{
+  ID: 'vfgla',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:46:56.892Z'
+}
+{
+  ID: 'vvwbd',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T00:46:56.908Z'
+}
+{
+  ID: 'vfgla',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID vfgla to Y',
+  timestamp: '2022-08-07T00:46:59.367Z'
+}
+{
+  ID: 'vvwbd',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID vvwbd to Y',
+  timestamp: '2022-08-07T00:46:59.376Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs vfgla,vvwbd',
+  level: 'info',
+  timestamp: '2022-08-07T00:46:59.380Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-07T00:46:59.386Z'
+}
+{
+  ID: 'zxnai',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID zxnai \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T01:09:21.267Z'
+}
+{
+  ID: 'zxnai',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["zxnai","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 9:09:21 am"]',
+  timestamp: '2022-08-07T01:09:21.297Z'
+}
+{
+  ID: 'zxnai',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T01:09:21.327Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:26.206Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:26.212Z'
+}
+{
+  ID: 'zxnai',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T01:09:26.214Z'
+}
+{
+  ID: 'zxnai',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID zxnai to Y',
+  timestamp: '2022-08-07T01:09:28.697Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs zxnai',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:28.698Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:28.701Z'
+}
+{
+  ID: 'whbvk',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID whbvk \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T01:09:38.928Z'
+}
+{
+  ID: 'whbvk',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["whbvk","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 9:09:38 am"]',
+  timestamp: '2022-08-07T01:09:38.929Z'
+}
+{
+  ID: 'whbvk',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T01:09:38.939Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:43.083Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:43.085Z'
+}
+{
+  ID: 'whbvk',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T01:09:43.087Z'
+}
+{
+  ID: 'whbvk',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID whbvk to Y',
+  timestamp: '2022-08-07T01:09:45.558Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs whbvk',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:45.559Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-07T01:09:45.560Z'
+}
+{
+  ID: 'ausgw',
+  human: true,
+  level: 'info',
+  message: 'Received donation form submission with reference ID ausgw \n' +
+    ' Request body: {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T01:09:57.807Z'
+}
+{
+  ID: 'ausgw',
+  level: 'info',
+  message: 'Adding the following row to Google Sheet: ["ausgw","Kim Young Jin e2e test","kimyoungjin1001@gmail.com","81189254","Education","paynow",1,"","","07/08/2022, 9:09:57 am"]',
+  timestamp: '2022-08-07T01:09:57.808Z'
+}
+{
+  ID: 'ausgw',
+  level: 'info',
+  message: 'No donation intent for amount 1 exists currently - adding new intent and starting timer',
+  timestamp: '2022-08-07T01:09:57.813Z'
+}
+{
+  message: 'Received payment notification from bank for amount 1 \n' +
+    ' Email Contents: Please be advised that the below transaction has been Processed. You may login UOB Infinity to review the details. \n' +
+    ' Transaction : Inward Remittance BIB Reference: IR22060164074051 Bank Reference: 586L222 20220629 Currency and Amount: SGD 1.00 This is a system-generated mail. Please do not reply to this message.',
+  level: 'info',
+  timestamp: '2022-08-07T01:10:02.082Z'
+}
+{
+  message: 'Attempting to tally amount 1',
+  level: 'info',
+  timestamp: '2022-08-07T01:10:02.083Z'
+}
+{
+  ID: 'ausgw',
+  human: true,
+  level: 'info',
+  message: 'Sending receipt to the following user: \n' +
+    ' {"fullname":"Kim Young Jin e2e test","email":"kimyoungjin1001@gmail.com","mobilenumber":"81189254","project":"Education","type":"paynow","amount":1,"chequenumber":"","country":""}',
+  timestamp: '2022-08-07T01:10:02.085Z'
+}
+{
+  ID: 'ausgw',
+  level: 'info',
+  message: 'Updated donation confirmed column for donation ID ausgw to Y',
+  timestamp: '2022-08-07T01:10:04.529Z'
+}
+{
+  message: 'Emitting the following tally result to all current clients: tally success with donation IDs ausgw',
+  level: 'info',
+  timestamp: '2022-08-07T01:10:04.530Z'
+}
+{
+  message: 'Sending 200 for bank email response',
+  level: 'info',
+  timestamp: '2022-08-07T01:10:04.531Z'
+}

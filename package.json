@@ -1,0 +1,20 @@
+{
+  "name": "gvh-donation-mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "frontend",
+    "backend",
+    "e2e"
+  ],
+  "scripts": {
+    "e2e": "npm run e2e -w frontend & npm run e2e -w backend",
+    "start": "concurrently -k 'npm start -w frontend' 'npm run dev -w backend'"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines" : { 
+    "node" : "16.15.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gvh-donation-e2e",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  },
+  "scripts": {
+    "start-docker": "docker run --name playwright-test -it --rm --ipc=host -v $PWD/..:/gvh-core -w /gvh-core/e2e --network=host mcr.microsoft.com/playwright:v1.24.0-focal /bin/bash",
+    "test": "npx playwright test test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "google-spreadsheet": "^3.3.0",
+    "proxyquire": "^2.1.3",
+    "spreadsheet-utils": "file:../backend/google-sheet/index.js"
+  }
+}
