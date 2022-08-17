@@ -1,3 +1,5 @@
+/** @jsxImportSource @emotion/react */
+import { css } from "@emotion/react";
 import React from "react";
 import TextField from "@mui/material/TextField";
 import Typography from "@mui/material/Typography";
@@ -6,13 +8,13 @@ import { LeftColText } from "components/StyledComponents";
 
 function OnMonthlySubmit({ refid }) {
   return (
-    <ResponseContainer maxWidth="xs">
+    <ResponseContainer maxWidth="ssm">
       <Typography variant="h6">Here is your Reference ID :</Typography>
       <Typography variant="h3" mb={3}>
         {refid}
       </Typography>
 
-      <Typography variant="body1">
+      <Typography variant="h6">
         To make an automatic monthly donation, please follow these instructions.
         <br />
         <br />
@@ -52,31 +54,32 @@ function OnMonthlySubmit({ refid }) {
       </Typography>
 
       <Typography variant="body1" mt={3}>
-        <b>Our Banking Details:</b>
+        <div css={{ textAlign: "center" }}>
+          <b>Our Banking Details</b>
+        </div>
+        <table>
+          <tr>
+            <LeftColText>Bank Name:</LeftColText>
+            <td>United Overseas Bank Limited</td>
+          </tr>
+          <tr>
+            <LeftColText>Account Name:</LeftColText>
+            <td>Global Village for Hope</td>
+          </tr>
+          <tr>
+            <LeftColText>Account Number:</LeftColText>
+            <td>324-310-964-5</td>
+          </tr>
+          <tr>
+            <LeftColText>Bank Code:</LeftColText>
+            <td>7375</td>
+          </tr>
+          <tr>
+            <LeftColText>Branch Code:</LeftColText>
+            <td>012 (Bukit Panjang Branch)</td>
+          </tr>
+        </table>
       </Typography>
-
-      <table>
-        <tr>
-          <LeftColText>Bank Name:</LeftColText>
-          <td>United Overseas Bank Limited</td>
-        </tr>
-        <tr>
-          <LeftColText>Account Name:</LeftColText>
-          <td>Global Village for Hope</td>
-        </tr>
-        <tr>
-          <LeftColText>Account Number:</LeftColText>
-          <td>324-310-964-5</td>
-        </tr>
-        <tr>
-          <LeftColText>Bank Code:</LeftColText>
-          <td>7375</td>
-        </tr>
-        <tr>
-          <LeftColText>Branch Code:</LeftColText>
-          <td>012 (Bukit Panjang Branch)</td>
-        </tr>
-      </table>
     </ResponseContainer>
   );
 }

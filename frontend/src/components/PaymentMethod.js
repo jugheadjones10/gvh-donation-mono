@@ -6,7 +6,6 @@ import { useFormik } from "formik";
 import * as Yup from "yup";
 
 import { ResponseContainer } from "./StyledComponents";
-import { AccordionTitle } from "components/TypographyVariants";
 
 //Components displayed on submission complete.
 import OnPayNowSubmit from "on-submit-components/OnPayNowSubmit";
@@ -16,9 +15,6 @@ import OnChequeSubmit from "on-submit-components/OnChequeSubmit";
 import OnMonthlySubmit from "on-submit-components/OnMonthlySubmit";
 import OnOverseasSubmit from "on-submit-components/OnOverseasSubmit";
 
-import PDPA from "../form-components/PDPA";
-
-import { useTheme } from "@mui/styles";
 import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
@@ -31,101 +27,155 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Backdrop from "@mui/material/Backdrop";
 import HelpIcon from "@mui/icons-material/Help";
 import IconButton from "@mui/material/IconButton";
+import CloseIcon from "@mui/icons-material/Close";
 import Tooltip from "@mui/material/Tooltip";
+import Dialog from "@mui/material/Dialog";
+import Slide from "@mui/material/Slide";
+import Box from "@mui/material/Box";
 
-import {
-  formikInitialValues,
-  formikValidation,
-  formComponents,
-} from "./fieldConstants";
+import { formikInitialValues, formikValidation } from "./formik";
+import { formComponents } from "./formComponents";
 
-function PaymentMethod({ method, post }) {
+// Improve performance by loading only after "expand"
+function formSubmit(values) {
+  return fetch(process.env.REACT_APP_DEV_SERVER + "/donation-form", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "text/html",
+    },
+    body: JSON.stringify(values, null, 2),
+  })
+    .then((res) => res.json())
+    .then((res) => {
+      console.log(JSON.stringify(res));
+      return { refid: res.ID, qrUrl: res.qrUrl };
+    });
+}
+
+const Transition = React.forwardRef(function Transition(props, ref) {
+  return <Slide direction="up" ref={ref} {...props} />;
+});
+
+function PaymentMethod({ method }) {
+  const config = configs[method];
+
   const [submitted, setSubmitted] = useState(false);
   const [renderData, setRenderData] = useState(null);
-  const config = configs[method];
-  const theme = useTheme();
+
+  const [dialogOpen, setDialogOpen] = useState(false);
+  const handleDialogClose = () => {
+    setDialogOpen(false);
+  };
+
+  const [accordionExpanded, setAccordionExpanded] = useState(false);
+  const handleAccordionChange = (event, isExpanded) => {
+    setAccordionExpanded(isExpanded);
+  };
 
   const formik = useFormik({
     initialValues: { ...formikInitialValues, type: method },
     validationSchema: Yup.object({
       ...formikValidation.validationObj(config.fields),
     }),
-    onSubmit: (values) => {
-      post(values)
+    onSubmit: (values, actions) => {
+      formSubmit(values)
         .then((renderData) => {
           setRenderData(renderData);
           setSubmitted(true);
+          setDialogOpen(true);
+          setAccordionExpanded(false);
           formik.setSubmitting(false);
+          actions.resetForm();
         })
         .catch((err) => {
-          alert("My client error: " + err);
+          alert(
+            "An error occurred: " +
+              err +
+              ", please contact gvhfinance@gmail.com for futher instructions!"
+          );
         });
     },
   });
 
   return (
-    <Accordion css={{ zIndex: 1 }}>
-      <AccordionSummary expandIcon={<ExpandMoreIcon />} id="panel1a-header">
-        <AccordionTitle>{config.title}</AccordionTitle>
+    <Accordion expanded={accordionExpanded} onChange={handleAccordionChange}>
+      <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+        <Typography variant="h5">{config.title}</Typography>
       </AccordionSummary>
       <Divider />
       <AccordionDetails>
-        {submitted === false && (
-          <ResponseContainer
-            as="form"
-            id={method}
-            maxWidth="xs"
-            onSubmit={formik.handleSubmit}
-          >
-            {config.fields.map((field) => {
-              return formComponents(field, formik);
-            })}
+        <ResponseContainer
+          as="form"
+          id={method}
+          maxWidth="ssm"
+          onSubmit={formik.handleSubmit}
+        >
+          {config.fields.map((field) => {
+            return formComponents(field, formik);
+          })}
 
-            <input id="type" type="hidden" {...formik.getFieldProps("type")} />
+          <input id="type" type="hidden" {...formik.getFieldProps("type")} />
+        </ResponseContainer>
+
+        <Dialog
+          fullScreen
+          open={dialogOpen}
+          onClose={handleDialogClose}
+          TransitionComponent={Transition}
+        >
+          <ResponseContainer px={3} maxWidth="ssm">
+            <Box display="flex" alignItems="flex-start" mb={3} width="100%">
+              <IconButton edge="start" onClick={handleDialogClose}>
+                <CloseIcon />
+              </IconButton>
+            </Box>
+
+            {submitted === true && config.response(renderData)}
+            {/* {config.response({ refid: "111" })} */}
           </ResponseContainer>
-        )}
-
-        {submitted === true && config.response(renderData)}
-        {/* {config.response({ refid: "111", qrUrl: "www.google.com" })} */}
+        </Dialog>
       </AccordionDetails>
 
-      {submitted === false && (
-        <AccordionActions>
-          <ResponseContainer maxWidth="xs">
-            <Tooltip
-              arrow
-              placement="top"
-              title="Information from the form will allow us to record the source of the funds accurately and use them for their intended purpose. Your information will not be published publicly without your permission and your identity will be kept confidential."
-            >
-              <Typography variant="body2">
-                <IconButton>
-                  <HelpIcon />
-                </IconButton>
-                Why do we need this information?
-              </Typography>
-            </Tooltip>
-            <Button
-              color="primary"
-              css={{ marginBottom: theme.spacing(3) }}
-              disabled={formik.isSubmitting}
-              form={method}
-              fullWidth
-              size="medium"
-              type="submit"
-              variant="contained"
-              data-test-id={method + "button"}
-            >
-              Submit
-            </Button>
-            <PDPA />
-          </ResponseContainer>
-        </AccordionActions>
-      )}
+      <AccordionActions>
+        <ResponseContainer maxWidth="ssm">
+          <Tooltip
+            arrow
+            placement="top"
+            title="Information from the form will allow us to record the source of the funds accurately and use them for their intended purpose. Your information will not be published publicly without your permission and your identity will be kept confidential."
+          >
+            <Typography variant="body2">
+              <IconButton>
+                <HelpIcon />
+              </IconButton>
+              Why do we need this information?
+            </Typography>
+          </Tooltip>
+          <Button
+            color="primary"
+            sx={{ marginBottom: 3 }}
+            disabled={formik.isSubmitting}
+            form={method}
+            fullWidth
+            size="medium"
+            type="submit"
+            variant="contained"
+            data-test-id={method + "button"}
+          >
+            Submit
+          </Button>
+          <Typography color="text.secondary" variant="body2">
+            By submitting this donation form, you agree that GVH may collect,
+            use, and disclose your personal data, as provided above, for the
+            following purposes: (a) contact you for volunteering activities (b)
+            send you information on other events that GVH believes might be of
+            interest or benefit to you, in accordance with the Personal Data
+            Protection Act 2012.
+          </Typography>
+        </ResponseContainer>
+      </AccordionActions>
       <Backdrop
-        css={{
-          color: "#fff",
-          zIndex: 3,
-        }}
+        sx={{ color: "#fff", zIndex: (theme) => theme.zIndex.tooltip + 1 }}
         open={formik.isSubmitting}
       >
         <CircularProgress color="inherit" />

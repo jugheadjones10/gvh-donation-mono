@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
+    "@fontsource/league-spartan": "^4.5.10",
     "@mui/icons-material": "^5.0.0-rc.0",
     "@mui/material": "^5.0.0-rc.1",
     "@mui/styles": "^5.0.0-rc.1",
@@ -25,7 +26,7 @@
     "socket.io-client": "^4.5.1",
     "web-vitals": "^0.2.4",
     "yup": "^0.32.8"
- },
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -73,7 +74,7 @@
     "eslint-plugin-react": "^7.28.0",
     "prettier": "^2.5.1"
   },
-  "engines" : { 
-    "node" : "16.15.1"
+  "engines": {
+    "node": "16.15.1"
   }
 }

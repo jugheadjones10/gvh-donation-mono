@@ -24,7 +24,7 @@ const amount = "1";
 
 test("End-to-end donation flow", async ({ page, request }) => {
   // test.slow();
- // Submit donation form
+// Submit donation form
   await page.locator("text='PayNow with UEN'").click();
   await page.locator("#paynow #fullname").fill(fullname);
   await page.locator("#paynow #email").fill(email);

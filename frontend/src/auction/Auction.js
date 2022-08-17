@@ -23,7 +23,6 @@ import styled from "@emotion/styled";
 
 import PaymentMethod from "components/PaymentMethod";
 import Decorations from "./Decorations";
-import { Title } from "components/TypographyVariants";
 
 import image1 from "./paintings/image1.webp";
 import image2 from "./paintings/image2.webp";

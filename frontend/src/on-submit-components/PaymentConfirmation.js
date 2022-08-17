@@ -5,14 +5,18 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import Box from "@mui/material/Box";
 
-function PaymentConfirmation({ reconciled }) {
+import useSocketIO from "./useSocketIO";
+
+function PaymentConfirmation() {
+  const reconciled = useSocketIO();
+
   return (
     <Card variant="outlined" sx={{ m: 4 }}>
       <CardContent>
         <Typography data-test-id="payment-confirmation" variant="h6">
           {reconciled
             ? reconciled
-            : "Thank you for your contribution! Please donate within the next 5 minutes so that your donation can be processed"}
+            : "Thank you for your contribution! Please donate within the next 5 minutes so that your donation can be processed."}
         </Typography>
 
         {!reconciled && (

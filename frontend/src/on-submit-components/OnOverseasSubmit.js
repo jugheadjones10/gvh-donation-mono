@@ -6,8 +6,8 @@ import { ResponseContainer } from "components/StyledComponents";
 
 function OnOverseasSubmit() {
   return (
-    <ResponseContainer maxWidth="xs">
-      <Typography>
+    <ResponseContainer maxWidth="ssm">
+      <Typography variant="h6">
         We will be contacting you by email, Whatsapp, or phone to explain how to
         donate.
       </Typography>

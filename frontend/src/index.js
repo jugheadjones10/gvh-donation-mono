@@ -1,31 +1,24 @@
 import React, { Suspense } from "react";
 import ReactDOM from "react-dom";
-
 import reportWebVitals from "./reportWebVitals";
-import theme from "./theme";
 
+// Styling
+import "@fontsource/league-spartan";
+import theme from "./theme";
 import "./index.css";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import { createTheme } from "@mui/material/styles";
 import { ThemeProvider } from "@mui/material/styles";
 import CircularProgress from "@mui/material/CircularProgress";
 import Backdrop from "@mui/material/Backdrop";
-
-// import { Elements } from "@stripe/react-stripe-js";
-// import { loadStripe } from "@stripe/stripe-js";
-// const stripePromise = loadStripe(
-//   "pk_test_51JYP6bJ0vgYGBOQWTZGdEkcNXUIeB0Lq0SdSU4dlH9ZnROmzQLiOMUbkZKhckGSVVGH1tRfYEE7IwW3gQ8NsGL1N00PEYZQ9o9"
-// );
 
 import App from "./App";
 const Auction = React.lazy(() => import("./auction/Auction"));
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <Elements stripe={stripePromise}> */}
-    <ThemeProvider theme={createTheme(theme)}>
+    <ThemeProvider theme={theme}>
       <BrowserRouter>
         <Routes>
           <Route
@@ -47,7 +40,6 @@ ReactDOM.render(
         </Routes>
       </BrowserRouter>
     </ThemeProvider>
-    {/* </Elements> */}
   </React.StrictMode>,
   document.getElementById("root")
 );

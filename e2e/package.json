@@ -4,7 +4,7 @@
     "@playwright/test": "^1.24.2"
   },
   "scripts": {
-    "start-docker": "docker run --name playwright-test -it --rm --ipc=host -v $PWD/..:/gvh-core -w /gvh-core/e2e --network=host mcr.microsoft.com/playwright:v1.24.0-focal /bin/bash",
+    "start-docker": "docker run --name playwright-test -it --rm --ipc=host -v $PWD/..:/gvh-donation-mono -w /gvh-donation-mono/e2e --network=host mcr.microsoft.com/playwright:v1.24.0-focal /bin/bash",
     "test": "npx playwright test test.js"
   },
   "dependencies": {

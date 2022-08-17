@@ -1,25 +1,3 @@
-@font-face {
-  font-family: "CooperHewitt-Medium";
-  src: url("./fonts/CooperHewitt/CooperHewitt-Medium.woff") format("woff");
-}
-
-@font-face {
-  font-family: "CooperHewitt-Book";
-  src: url("./fonts/CooperHewitt/CooperHewitt-Book.woff") format("woff");
-}
-
-@font-face {
-  font-family: "CooperHewitt-Heavy";
-  src: url("./fonts/CooperHewitt/CooperHewitt-Heavy.woff") format("woff");
-}
-
-@font-face {
-  font-family: "CooperHewitt-Semibold";
-  src: url("./fonts/CooperHewitt/CooperHewitt-Semibold.woff") format("woff");
-}
-
-@import url("https://free.bboxtype.com/embedfonts/?family=FiraSans:300,400,500,600,900");
-
 body {
   margin: 0;
 }
