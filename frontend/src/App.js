@@ -6,6 +6,7 @@ import Preamble from "./Preamble";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
+import Stripe from "components/Stripe";
 
 function App() {
   return (
@@ -30,12 +31,14 @@ function App() {
 
       <Preamble />
 
-      <PaymentMethod method="paynow" />
+      <Stripe />
+
+      {/* <PaymentMethod method="paynow" />
       <PaymentMethod method="qrcode" />
       <PaymentMethod method="banktransfer" />
       <PaymentMethod method="cheque" />
       <PaymentMethod method="monthly" />
-      <PaymentMethod method="overseas" />
+      <PaymentMethod method="overseas" /> */}
     </Box>
   );
 }

@@ -1,2 +1,2 @@
 web: npm start
-redis: redis-server --port 6378
+redis: redis-server --port 6379

@@ -14,6 +14,7 @@ const {
   donationFormReceived,
 } = require("./receipt/receipt.js");
 const sendEmail = require("./send-email.js");
+const stripeRouter = require("./stripe");
 require("dotenv").config();
 
 const sgMail = require("@sendgrid/mail");
@@ -36,6 +37,8 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
+
+// app.use("/stripe", stripeRouter);
 
 app.post("/google-sheet", async (req, res) => {
   const body = req.body;

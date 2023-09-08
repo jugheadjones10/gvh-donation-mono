@@ -3,3 +3,5 @@
 .env.e2e
 .env.test
 .env.prod
+
+google-credentials.json
