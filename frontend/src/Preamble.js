@@ -12,12 +12,21 @@ function Preamble() {
         Thank you so much for your interest in funding our various projects!
         <br />
         <br />
-        Feel free to email us at
+        The payment methods below will incur a 3.4% transaction fee (we will
+        receive a bit less than what you donated). If you would like to donate
+        without paying the transaction fee, please contact us directly:
+        <br />
+        <br />
+        Email:
+        <br />
         <a href="mailto:gvhfinance@gmail.com">
           <b> Globalvillageforhope@gmail.com </b>
         </a>
-        or Whatsapp us at <b>+65 88224918</b> if you would like to seek
-        clarifications. <br />
+        <br />
+        <br />
+        Whatsapp/Phone:
+        <br />
+        <b>+65 88224918</b>
       </Typography>
     </Box>
   );
