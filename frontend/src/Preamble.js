@@ -12,9 +12,9 @@ function Preamble() {
         Thank you so much for your interest in funding our various projects!
         <br />
         <br />
-        The payment methods below will incur a 3.4% transaction fee (we will
-        receive a bit less than what you donated). If you would like to donate
-        without paying the transaction fee, please contact us directly:
+        If you would like to donate without paying a transaction fee (by using
+        direct PayNow to our Singapore bank account), please contact us
+        directly:
         <br />
         <br />
         Email:
@@ -27,6 +27,10 @@ function Preamble() {
         Whatsapp/Phone:
         <br />
         <b>+65 88224918</b>
+        <br />
+        <br />
+        If you prefer to donate using your credit card or debit card, please
+        proceed with this donation form by clicking one of the 2 buttons below:
       </Typography>
     </Box>
   );
